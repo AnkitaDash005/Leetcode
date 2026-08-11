@@ -1,14 +1,14 @@
 {
-  "totalSolved": 17,
+  "totalSolved": 18,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-12",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 5,
     "medium": 7,
     "hard": 1,
-    "basic": 4
+    "basic": 5
   },
   "syncedProblems": {
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
@@ -27,16 +27,18 @@
     "Codeforces_2247A_-_Zero_Sum": true,
     "Codeforces_414B_-_Mashmokh_and_ACM": true,
     "Codeforces_116A_-_Tram": true,
-    "Codeforces_1845B_-_Come_Together": true
+    "Codeforces_1845B_-_Come_Together": true,
+    "Codeforces_2253A_-_The_Best_Card": true
   },
   "activityHistory": {
     "2026-08-11": 13,
-    "2026-08-12": 4
+    "2026-08-12": 5
   },
   "todayProblems": [
     "2247A - Zero Sum",
     "414B - Mashmokh and ACM",
     "116A - Tram",
-    "1845B - Come Together"
+    "1845B - Come Together",
+    "2253A - The Best Card"
   ]
 }

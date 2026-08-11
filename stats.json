@@ -1,11 +1,11 @@
 {
-  "totalSolved": 12,
+  "totalSolved": 13,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-11",
-  "todayCount": 12,
+  "todayCount": 13,
   "difficultyCounts": {
-    "easy": 4,
+    "easy": 5,
     "medium": 7,
     "hard": 1,
     "basic": 0
@@ -22,10 +22,11 @@
     "LeetCode_Longest_Common_Prefix": true,
     "LeetCode_3Sum": true,
     "LeetCode_3Sum_Closest": true,
-    "LeetCode_4Sum": true
+    "LeetCode_4Sum": true,
+    "LeetCode_Valid_Parentheses": true
   },
   "activityHistory": {
-    "2026-08-11": 12
+    "2026-08-11": 13
   },
   "todayProblems": [
     "Median of Two Sorted Arrays",
@@ -39,6 +40,7 @@
     "Longest Common Prefix",
     "3Sum",
     "3Sum Closest",
-    "4Sum"
+    "4Sum",
+    "Valid Parentheses"
   ]
 }

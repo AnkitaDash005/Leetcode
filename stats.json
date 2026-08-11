@@ -1,14 +1,14 @@
 {
-  "totalSolved": 30,
+  "totalSolved": 31,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-12",
-  "todayCount": 17,
+  "todayCount": 18,
   "difficultyCounts": {
     "easy": 5,
     "medium": 7,
     "hard": 1,
-    "basic": 17
+    "basic": 18
   },
   "syncedProblems": {
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
@@ -40,11 +40,12 @@
     "Codeforces_313A_-_Ilya_and_Bank_Account": true,
     "Codeforces_34B_-_Sale": true,
     "Codeforces_1475A_-_Odd_Divisor": true,
-    "Codeforces_1742A_-_Sum": true
+    "Codeforces_1742A_-_Sum": true,
+    "Codeforces_41A_-_Translation": true
   },
   "activityHistory": {
     "2026-08-11": 13,
-    "2026-08-12": 17
+    "2026-08-12": 18
   },
   "todayProblems": [
     "2247A - Zero Sum",
@@ -63,6 +64,7 @@
     "313A - Ilya and Bank Account",
     "34B - Sale",
     "1475A - Odd Divisor",
-    "1742A - Sum"
+    "1742A - Sum",
+    "41A - Translation"
   ]
 }

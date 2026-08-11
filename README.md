@@ -29,3 +29,4 @@
 | 27 | [34B - Sale](./Codeforces/basic/34B%20-%20Sale) | [Codeforces](https://codeforces.com/problemset/problem/34/B) | basic | 12 Aug 2026 | 02:50 am |
 | 28 | [1475A - Odd Divisor](./Codeforces/basic/1475A%20-%20Odd%20Divisor) | [Codeforces](https://codeforces.com/problemset/problem/1475/A) | basic | 12 Aug 2026 | 02:50 am |
 | 29 | [1742A - Sum](./Codeforces/basic/1742A%20-%20Sum) | [Codeforces](https://codeforces.com/problemset/problem/1742/A) | basic | 12 Aug 2026 | 02:50 am |
+| 30 | [41A - Translation](./Codeforces/basic/41A%20-%20Translation) | [Codeforces](https://codeforces.com/problemset/problem/41/A) | basic | 12 Aug 2026 | 02:51 am |

@@ -1,22 +1,24 @@
 {
-  "totalSolved": 1,
+  "totalSolved": 2,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-11",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 0,
+    "easy": 1,
     "medium": 0,
     "hard": 1,
     "basic": 0
   },
   "syncedProblems": {
-    "LeetCode_Median_of_Two_Sorted_Arrays": true
+    "LeetCode_Median_of_Two_Sorted_Arrays": true,
+    "LeetCode_Two_Sum": true
   },
   "activityHistory": {
-    "2026-08-11": 1
+    "2026-08-11": 2
   },
   "todayProblems": [
-    "Median of Two Sorted Arrays"
+    "Median of Two Sorted Arrays",
+    "Two Sum"
   ]
 }

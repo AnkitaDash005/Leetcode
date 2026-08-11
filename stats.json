@@ -1,14 +1,14 @@
 {
-  "totalSolved": 42,
+  "totalSolved": 43,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-12",
-  "todayCount": 29,
+  "todayCount": 30,
   "difficultyCounts": {
     "easy": 5,
     "medium": 7,
     "hard": 1,
-    "basic": 29
+    "basic": 30
   },
   "syncedProblems": {
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
@@ -52,11 +52,12 @@
     "Codeforces_580A_-_Kefa_and_First_Steps": true,
     "Codeforces_133A_-_HQ9": true,
     "Codeforces_405A_-_Gravity_Flip": true,
-    "Codeforces_318A_-_Even_Odds": true
+    "Codeforces_318A_-_Even_Odds": true,
+    "Codeforces_160A_-_Twins": true
   },
   "activityHistory": {
     "2026-08-11": 13,
-    "2026-08-12": 29
+    "2026-08-12": 30
   },
   "todayProblems": [
     "2247A - Zero Sum",
@@ -87,6 +88,7 @@
     "580A - Kefa and First Steps",
     "133A - HQ9",
     "405A - Gravity Flip",
-    "318A - Even Odds"
+    "318A - Even Odds",
+    "160A - Twins"
   ]
 }

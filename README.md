@@ -38,3 +38,4 @@
 | 36 | [2244A - Iskander and Drawings](./Codeforces/basic/2244A%20-%20Iskander%20and%20Drawings) | [Codeforces](https://codeforces.com/problemset/problem/2244/A) | basic | 12 Aug 2026 | 02:51 am |
 | 37 | [208A - Dubstep](./Codeforces/basic/208A%20-%20Dubstep) | [Codeforces](https://codeforces.com/problemset/problem/208/A) | basic | 12 Aug 2026 | 02:51 am |
 | 38 | [580A - Kefa and First Steps](./Codeforces/basic/580A%20-%20Kefa%20and%20First%20Steps) | [Codeforces](https://codeforces.com/problemset/problem/580/A) | basic | 12 Aug 2026 | 02:51 am |
+| 39 | [133A - HQ9](./Codeforces/basic/133A%20-%20HQ9) | [Codeforces](https://codeforces.com/problemset/problem/133/A) | basic | 12 Aug 2026 | 02:51 am |

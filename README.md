@@ -15,3 +15,4 @@
 | 13 | [2247A - Zero Sum](./Codeforces/basic/2247A%20-%20Zero%20Sum) | [Codeforces](https://codeforces.com/problemset/problem/2247/A) | basic | 12 Aug 2026 | 02:49 am |
 | 14 | [414B - Mashmokh and ACM](./Codeforces/basic/414B%20-%20Mashmokh%20and%20ACM) | [Codeforces](https://codeforces.com/problemset/problem/414/B) | basic | 12 Aug 2026 | 02:49 am |
 | 15 | [116A - Tram](./Codeforces/basic/116A%20-%20Tram) | [Codeforces](https://codeforces.com/problemset/problem/116/A) | basic | 12 Aug 2026 | 02:49 am |
+| 16 | [1845B - Come Together](./Codeforces/basic/1845B%20-%20Come%20Together) | [Codeforces](https://codeforces.com/problemset/problem/1845/B) | basic | 12 Aug 2026 | 02:49 am |

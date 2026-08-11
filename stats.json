@@ -1,14 +1,14 @@
 {
-  "totalSolved": 16,
+  "totalSolved": 17,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-12",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 5,
     "medium": 7,
     "hard": 1,
-    "basic": 3
+    "basic": 4
   },
   "syncedProblems": {
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
@@ -26,15 +26,17 @@
     "LeetCode_Valid_Parentheses": true,
     "Codeforces_2247A_-_Zero_Sum": true,
     "Codeforces_414B_-_Mashmokh_and_ACM": true,
-    "Codeforces_116A_-_Tram": true
+    "Codeforces_116A_-_Tram": true,
+    "Codeforces_1845B_-_Come_Together": true
   },
   "activityHistory": {
     "2026-08-11": 13,
-    "2026-08-12": 3
+    "2026-08-12": 4
   },
   "todayProblems": [
     "2247A - Zero Sum",
     "414B - Mashmokh and ACM",
-    "116A - Tram"
+    "116A - Tram",
+    "1845B - Come Together"
   ]
 }

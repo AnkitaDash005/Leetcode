@@ -21,3 +21,4 @@
 | 19 | [1900A - Cover in Water](./Codeforces/basic/1900A%20-%20Cover%20in%20Water) | [Codeforces](https://codeforces.com/problemset/problem/1900/A) | basic | 12 Aug 2026 | 02:50 am |
 | 20 | [1791E - Negatives and Positives](./Codeforces/basic/1791E%20-%20Negatives%20and%20Positives) | [Codeforces](https://codeforces.com/problemset/problem/1791/E) | basic | 12 Aug 2026 | 02:50 am |
 | 21 | [1804D - Accommodation](./Codeforces/basic/1804D%20-%20Accommodation) | [Codeforces](https://codeforces.com/problemset/problem/1804/D) | basic | 12 Aug 2026 | 02:50 am |
+| 22 | [977B - Two-gram](./Codeforces/basic/977B%20-%20Two-gram) | [Codeforces](https://codeforces.com/problemset/problem/977/B) | basic | 12 Aug 2026 | 02:50 am |

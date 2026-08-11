@@ -18,3 +18,4 @@
 | 16 | [1845B - Come Together](./Codeforces/basic/1845B%20-%20Come%20Together) | [Codeforces](https://codeforces.com/problemset/problem/1845/B) | basic | 12 Aug 2026 | 02:49 am |
 | 17 | [2253A - The Best Card](./Codeforces/basic/2253A%20-%20The%20Best%20Card) | [Codeforces](https://codeforces.com/problemset/problem/2253/A) | basic | 12 Aug 2026 | 02:50 am |
 | 18 | [349A - Cinema Line](./Codeforces/basic/349A%20-%20Cinema%20Line) | [Codeforces](https://codeforces.com/problemset/problem/349/A) | basic | 12 Aug 2026 | 02:50 am |
+| 19 | [1900A - Cover in Water](./Codeforces/basic/1900A%20-%20Cover%20in%20Water) | [Codeforces](https://codeforces.com/problemset/problem/1900/A) | basic | 12 Aug 2026 | 02:50 am |

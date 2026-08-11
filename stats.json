@@ -1,14 +1,14 @@
 {
-  "totalSolved": 19,
+  "totalSolved": 20,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-12",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
     "easy": 5,
     "medium": 7,
     "hard": 1,
-    "basic": 6
+    "basic": 7
   },
   "syncedProblems": {
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
@@ -29,11 +29,12 @@
     "Codeforces_116A_-_Tram": true,
     "Codeforces_1845B_-_Come_Together": true,
     "Codeforces_2253A_-_The_Best_Card": true,
-    "Codeforces_349A_-_Cinema_Line": true
+    "Codeforces_349A_-_Cinema_Line": true,
+    "Codeforces_1900A_-_Cover_in_Water": true
   },
   "activityHistory": {
     "2026-08-11": 13,
-    "2026-08-12": 6
+    "2026-08-12": 7
   },
   "todayProblems": [
     "2247A - Zero Sum",
@@ -41,6 +42,7 @@
     "116A - Tram",
     "1845B - Come Together",
     "2253A - The Best Card",
-    "349A - Cinema Line"
+    "349A - Cinema Line",
+    "1900A - Cover in Water"
   ]
 }

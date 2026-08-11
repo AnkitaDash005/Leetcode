@@ -17,3 +17,4 @@
 | 15 | [116A - Tram](./Codeforces/basic/116A%20-%20Tram) | [Codeforces](https://codeforces.com/problemset/problem/116/A) | basic | 12 Aug 2026 | 02:49 am |
 | 16 | [1845B - Come Together](./Codeforces/basic/1845B%20-%20Come%20Together) | [Codeforces](https://codeforces.com/problemset/problem/1845/B) | basic | 12 Aug 2026 | 02:49 am |
 | 17 | [2253A - The Best Card](./Codeforces/basic/2253A%20-%20The%20Best%20Card) | [Codeforces](https://codeforces.com/problemset/problem/2253/A) | basic | 12 Aug 2026 | 02:50 am |
+| 18 | [349A - Cinema Line](./Codeforces/basic/349A%20-%20Cinema%20Line) | [Codeforces](https://codeforces.com/problemset/problem/349/A) | basic | 12 Aug 2026 | 02:50 am |

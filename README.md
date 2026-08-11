@@ -54,3 +54,4 @@
 | 52 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 12 Aug 2026 | 03:20 am |
 | 53 | [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) | [LeetCode](https://leetcode.com/problems/search-insert-position/) | Easy | 12 Aug 2026 | 03:22 am |
 | 54 | [First Missing Positive](./LeetCode/Hard/First%20Missing%20Positive) | [LeetCode](https://leetcode.com/problems/first-missing-positive/) | Hard | 12 Aug 2026 | 03:23 am |
+| 55 | [Multiply Strings](./LeetCode/Medium/Multiply%20Strings) | [LeetCode](https://leetcode.com/problems/multiply-strings/) | Medium | 12 Aug 2026 | 03:23 am |

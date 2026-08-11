@@ -39,3 +39,4 @@
 | 37 | [208A - Dubstep](./Codeforces/basic/208A%20-%20Dubstep) | [Codeforces](https://codeforces.com/problemset/problem/208/A) | basic | 12 Aug 2026 | 02:51 am |
 | 38 | [580A - Kefa and First Steps](./Codeforces/basic/580A%20-%20Kefa%20and%20First%20Steps) | [Codeforces](https://codeforces.com/problemset/problem/580/A) | basic | 12 Aug 2026 | 02:51 am |
 | 39 | [133A - HQ9](./Codeforces/basic/133A%20-%20HQ9) | [Codeforces](https://codeforces.com/problemset/problem/133/A) | basic | 12 Aug 2026 | 02:51 am |
+| 40 | [405A - Gravity Flip](./Codeforces/basic/405A%20-%20Gravity%20Flip) | [Codeforces](https://codeforces.com/problemset/problem/405/A) | basic | 12 Aug 2026 | 02:51 am |

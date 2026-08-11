@@ -1,14 +1,14 @@
 {
-  "totalSolved": 24,
+  "totalSolved": 25,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-12",
-  "todayCount": 11,
+  "todayCount": 12,
   "difficultyCounts": {
     "easy": 5,
     "medium": 7,
     "hard": 1,
-    "basic": 11
+    "basic": 12
   },
   "syncedProblems": {
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
@@ -34,11 +34,12 @@
     "Codeforces_1791E_-_Negatives_and_Positives": true,
     "Codeforces_1804D_-_Accommodation": true,
     "Codeforces_977B_-_Two-gram": true,
-    "Codeforces_1883B_-_Chemistry": true
+    "Codeforces_1883B_-_Chemistry": true,
+    "Codeforces_1475B_-_New_Years_Number": true
   },
   "activityHistory": {
     "2026-08-11": 13,
-    "2026-08-12": 11
+    "2026-08-12": 12
   },
   "todayProblems": [
     "2247A - Zero Sum",
@@ -51,6 +52,7 @@
     "1791E - Negatives and Positives",
     "1804D - Accommodation",
     "977B - Two-gram",
-    "1883B - Chemistry"
+    "1883B - Chemistry",
+    "1475B - New Years Number"
   ]
 }

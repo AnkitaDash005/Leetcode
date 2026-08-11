@@ -23,3 +23,4 @@
 | 21 | [1804D - Accommodation](./Codeforces/basic/1804D%20-%20Accommodation) | [Codeforces](https://codeforces.com/problemset/problem/1804/D) | basic | 12 Aug 2026 | 02:50 am |
 | 22 | [977B - Two-gram](./Codeforces/basic/977B%20-%20Two-gram) | [Codeforces](https://codeforces.com/problemset/problem/977/B) | basic | 12 Aug 2026 | 02:50 am |
 | 23 | [1883B - Chemistry](./Codeforces/basic/1883B%20-%20Chemistry) | [Codeforces](https://codeforces.com/problemset/problem/1883/B) | basic | 12 Aug 2026 | 02:50 am |
+| 24 | [1475B - New Years Number](./Codeforces/basic/1475B%20-%20New%20Years%20Number) | [Codeforces](https://codeforces.com/problemset/problem/1475/B) | basic | 12 Aug 2026 | 02:50 am |

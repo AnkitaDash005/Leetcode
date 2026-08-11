@@ -37,3 +37,4 @@
 | 35 | [2244B - Nikita and Books](./Codeforces/basic/2244B%20-%20Nikita%20and%20Books) | [Codeforces](https://codeforces.com/problemset/problem/2244/B) | basic | 12 Aug 2026 | 02:51 am |
 | 36 | [2244A - Iskander and Drawings](./Codeforces/basic/2244A%20-%20Iskander%20and%20Drawings) | [Codeforces](https://codeforces.com/problemset/problem/2244/A) | basic | 12 Aug 2026 | 02:51 am |
 | 37 | [208A - Dubstep](./Codeforces/basic/208A%20-%20Dubstep) | [Codeforces](https://codeforces.com/problemset/problem/208/A) | basic | 12 Aug 2026 | 02:51 am |
+| 38 | [580A - Kefa and First Steps](./Codeforces/basic/580A%20-%20Kefa%20and%20First%20Steps) | [Codeforces](https://codeforces.com/problemset/problem/580/A) | basic | 12 Aug 2026 | 02:51 am |

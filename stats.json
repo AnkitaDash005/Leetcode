@@ -1,14 +1,14 @@
 {
-  "totalSolved": 38,
+  "totalSolved": 39,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-12",
-  "todayCount": 25,
+  "todayCount": 26,
   "difficultyCounts": {
     "easy": 5,
     "medium": 7,
     "hard": 1,
-    "basic": 25
+    "basic": 26
   },
   "syncedProblems": {
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
@@ -48,11 +48,12 @@
     "Codeforces_546A_-_Soldier_and_Bananas": true,
     "Codeforces_2244B_-_Nikita_and_Books": true,
     "Codeforces_2244A_-_Iskander_and_Drawings": true,
-    "Codeforces_208A_-_Dubstep": true
+    "Codeforces_208A_-_Dubstep": true,
+    "Codeforces_580A_-_Kefa_and_First_Steps": true
   },
   "activityHistory": {
     "2026-08-11": 13,
-    "2026-08-12": 25
+    "2026-08-12": 26
   },
   "todayProblems": [
     "2247A - Zero Sum",
@@ -79,6 +80,7 @@
     "546A - Soldier and Bananas",
     "2244B - Nikita and Books",
     "2244A - Iskander and Drawings",
-    "208A - Dubstep"
+    "208A - Dubstep",
+    "580A - Kefa and First Steps"
   ]
 }

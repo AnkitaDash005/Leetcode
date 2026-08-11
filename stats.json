@@ -1,14 +1,14 @@
 {
-  "totalSolved": 31,
+  "totalSolved": 32,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-12",
-  "todayCount": 18,
+  "todayCount": 19,
   "difficultyCounts": {
     "easy": 5,
     "medium": 7,
     "hard": 1,
-    "basic": 18
+    "basic": 19
   },
   "syncedProblems": {
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
@@ -41,11 +41,12 @@
     "Codeforces_34B_-_Sale": true,
     "Codeforces_1475A_-_Odd_Divisor": true,
     "Codeforces_1742A_-_Sum": true,
-    "Codeforces_41A_-_Translation": true
+    "Codeforces_41A_-_Translation": true,
+    "Codeforces_734A_-_Anton_and_Danik": true
   },
   "activityHistory": {
     "2026-08-11": 13,
-    "2026-08-12": 18
+    "2026-08-12": 19
   },
   "todayProblems": [
     "2247A - Zero Sum",
@@ -65,6 +66,7 @@
     "34B - Sale",
     "1475A - Odd Divisor",
     "1742A - Sum",
-    "41A - Translation"
+    "41A - Translation",
+    "734A - Anton and Danik"
   ]
 }

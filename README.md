@@ -30,3 +30,4 @@
 | 28 | [1475A - Odd Divisor](./Codeforces/basic/1475A%20-%20Odd%20Divisor) | [Codeforces](https://codeforces.com/problemset/problem/1475/A) | basic | 12 Aug 2026 | 02:50 am |
 | 29 | [1742A - Sum](./Codeforces/basic/1742A%20-%20Sum) | [Codeforces](https://codeforces.com/problemset/problem/1742/A) | basic | 12 Aug 2026 | 02:50 am |
 | 30 | [41A - Translation](./Codeforces/basic/41A%20-%20Translation) | [Codeforces](https://codeforces.com/problemset/problem/41/A) | basic | 12 Aug 2026 | 02:51 am |
+| 31 | [734A - Anton and Danik](./Codeforces/basic/734A%20-%20Anton%20and%20Danik) | [Codeforces](https://codeforces.com/problemset/problem/734/A) | basic | 12 Aug 2026 | 02:51 am |

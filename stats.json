@@ -1,14 +1,14 @@
 {
-  "totalSolved": 43,
+  "totalSolved": 44,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-12",
-  "todayCount": 30,
+  "todayCount": 31,
   "difficultyCounts": {
     "easy": 5,
     "medium": 7,
     "hard": 1,
-    "basic": 30
+    "basic": 31
   },
   "syncedProblems": {
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
@@ -53,11 +53,12 @@
     "Codeforces_133A_-_HQ9": true,
     "Codeforces_405A_-_Gravity_Flip": true,
     "Codeforces_318A_-_Even_Odds": true,
-    "Codeforces_160A_-_Twins": true
+    "Codeforces_160A_-_Twins": true,
+    "Codeforces_96A_-_Football": true
   },
   "activityHistory": {
     "2026-08-11": 13,
-    "2026-08-12": 30
+    "2026-08-12": 31
   },
   "todayProblems": [
     "2247A - Zero Sum",
@@ -89,6 +90,7 @@
     "133A - HQ9",
     "405A - Gravity Flip",
     "318A - Even Odds",
-    "160A - Twins"
+    "160A - Twins",
+    "96A - Football"
   ]
 }

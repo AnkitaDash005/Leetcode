@@ -13,3 +13,4 @@
 | 11 | [4Sum](./LeetCode/Medium/4Sum) | [LeetCode](https://leetcode.com/problems/4sum/) | Medium | 11 Aug 2026 | 09:13 pm |
 | 12 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 11 Aug 2026 | 09:13 pm |
 | 13 | [2247A - Zero Sum](./Codeforces/basic/2247A%20-%20Zero%20Sum) | [Codeforces](https://codeforces.com/problemset/problem/2247/A) | basic | 12 Aug 2026 | 02:49 am |
+| 14 | [414B - Mashmokh and ACM](./Codeforces/basic/414B%20-%20Mashmokh%20and%20ACM) | [Codeforces](https://codeforces.com/problemset/problem/414/B) | basic | 12 Aug 2026 | 02:49 am |

@@ -26,3 +26,4 @@
 | 24 | [1475B - New Years Number](./Codeforces/basic/1475B%20-%20New%20Years%20Number) | [Codeforces](https://codeforces.com/problemset/problem/1475/B) | basic | 12 Aug 2026 | 02:50 am |
 | 25 | [460A - Vasya and Socks](./Codeforces/basic/460A%20-%20Vasya%20and%20Socks) | [Codeforces](https://codeforces.com/problemset/problem/460/A) | basic | 12 Aug 2026 | 02:50 am |
 | 26 | [313A - Ilya and Bank Account](./Codeforces/basic/313A%20-%20Ilya%20and%20Bank%20Account) | [Codeforces](https://codeforces.com/problemset/problem/313/A) | basic | 12 Aug 2026 | 02:50 am |
+| 27 | [34B - Sale](./Codeforces/basic/34B%20-%20Sale) | [Codeforces](https://codeforces.com/problemset/problem/34/B) | basic | 12 Aug 2026 | 02:50 am |

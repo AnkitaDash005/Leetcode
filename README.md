@@ -19,3 +19,4 @@
 | 17 | [2253A - The Best Card](./Codeforces/basic/2253A%20-%20The%20Best%20Card) | [Codeforces](https://codeforces.com/problemset/problem/2253/A) | basic | 12 Aug 2026 | 02:50 am |
 | 18 | [349A - Cinema Line](./Codeforces/basic/349A%20-%20Cinema%20Line) | [Codeforces](https://codeforces.com/problemset/problem/349/A) | basic | 12 Aug 2026 | 02:50 am |
 | 19 | [1900A - Cover in Water](./Codeforces/basic/1900A%20-%20Cover%20in%20Water) | [Codeforces](https://codeforces.com/problemset/problem/1900/A) | basic | 12 Aug 2026 | 02:50 am |
+| 20 | [1791E - Negatives and Positives](./Codeforces/basic/1791E%20-%20Negatives%20and%20Positives) | [Codeforces](https://codeforces.com/problemset/problem/1791/E) | basic | 12 Aug 2026 | 02:50 am |

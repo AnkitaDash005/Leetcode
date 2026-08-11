@@ -1,14 +1,14 @@
 {
-  "totalSolved": 20,
+  "totalSolved": 21,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-12",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
     "easy": 5,
     "medium": 7,
     "hard": 1,
-    "basic": 7
+    "basic": 8
   },
   "syncedProblems": {
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
@@ -30,11 +30,12 @@
     "Codeforces_1845B_-_Come_Together": true,
     "Codeforces_2253A_-_The_Best_Card": true,
     "Codeforces_349A_-_Cinema_Line": true,
-    "Codeforces_1900A_-_Cover_in_Water": true
+    "Codeforces_1900A_-_Cover_in_Water": true,
+    "Codeforces_1791E_-_Negatives_and_Positives": true
   },
   "activityHistory": {
     "2026-08-11": 13,
-    "2026-08-12": 7
+    "2026-08-12": 8
   },
   "todayProblems": [
     "2247A - Zero Sum",
@@ -43,6 +44,7 @@
     "1845B - Come Together",
     "2253A - The Best Card",
     "349A - Cinema Line",
-    "1900A - Cover in Water"
+    "1900A - Cover in Water",
+    "1791E - Negatives and Positives"
   ]
 }

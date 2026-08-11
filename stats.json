@@ -1,14 +1,14 @@
 {
-  "totalSolved": 45,
+  "totalSolved": 46,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-12",
-  "todayCount": 32,
+  "todayCount": 33,
   "difficultyCounts": {
     "easy": 5,
     "medium": 7,
     "hard": 1,
-    "basic": 32
+    "basic": 33
   },
   "syncedProblems": {
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
@@ -55,11 +55,12 @@
     "Codeforces_318A_-_Even_Odds": true,
     "Codeforces_160A_-_Twins": true,
     "Codeforces_96A_-_Football": true,
-    "Codeforces_617A_-_Elephant": true
+    "Codeforces_617A_-_Elephant": true,
+    "Codeforces_791A_-_Bear_and_Big_Brother": true
   },
   "activityHistory": {
     "2026-08-11": 13,
-    "2026-08-12": 32
+    "2026-08-12": 33
   },
   "todayProblems": [
     "2247A - Zero Sum",
@@ -93,6 +94,7 @@
     "318A - Even Odds",
     "160A - Twins",
     "96A - Football",
-    "617A - Elephant"
+    "617A - Elephant",
+    "791A - Bear and Big Brother"
   ]
 }

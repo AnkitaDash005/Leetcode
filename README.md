@@ -43,3 +43,4 @@
 | 41 | [160A - Twins](./Codeforces/basic/160A%20-%20Twins) | [Codeforces](https://codeforces.com/problemset/problem/160/A) | basic | 12 Aug 2026 | 02:52 am |
 | 42 | [96A - Football](./Codeforces/basic/96A%20-%20Football) | [Codeforces](https://codeforces.com/problemset/problem/96/A) | basic | 12 Aug 2026 | 02:52 am |
 | 43 | [617A - Elephant](./Codeforces/basic/617A%20-%20Elephant) | [Codeforces](https://codeforces.com/problemset/problem/617/A) | basic | 12 Aug 2026 | 02:52 am |
+| 44 | [791A - Bear and Big Brother](./Codeforces/basic/791A%20-%20Bear%20and%20Big%20Brother) | [Codeforces](https://codeforces.com/problemset/problem/791/A) | basic | 12 Aug 2026 | 02:52 am |

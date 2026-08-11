@@ -34,3 +34,4 @@
 | 32 | [977A - Wrong Subtraction](./Codeforces/basic/977A%20-%20Wrong%20Subtraction) | [Codeforces](https://codeforces.com/problemset/problem/977/A) | basic | 12 Aug 2026 | 02:51 am |
 | 33 | [59A - Word](./Codeforces/basic/59A%20-%20Word) | [Codeforces](https://codeforces.com/problemset/problem/59/A) | basic | 12 Aug 2026 | 02:51 am |
 | 34 | [546A - Soldier and Bananas](./Codeforces/basic/546A%20-%20Soldier%20and%20Bananas) | [Codeforces](https://codeforces.com/problemset/problem/546/A) | basic | 12 Aug 2026 | 02:51 am |
+| 35 | [2244B - Nikita and Books](./Codeforces/basic/2244B%20-%20Nikita%20and%20Books) | [Codeforces](https://codeforces.com/problemset/problem/2244/B) | basic | 12 Aug 2026 | 02:51 am |

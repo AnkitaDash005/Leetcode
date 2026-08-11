@@ -28,3 +28,4 @@
 | 26 | [313A - Ilya and Bank Account](./Codeforces/basic/313A%20-%20Ilya%20and%20Bank%20Account) | [Codeforces](https://codeforces.com/problemset/problem/313/A) | basic | 12 Aug 2026 | 02:50 am |
 | 27 | [34B - Sale](./Codeforces/basic/34B%20-%20Sale) | [Codeforces](https://codeforces.com/problemset/problem/34/B) | basic | 12 Aug 2026 | 02:50 am |
 | 28 | [1475A - Odd Divisor](./Codeforces/basic/1475A%20-%20Odd%20Divisor) | [Codeforces](https://codeforces.com/problemset/problem/1475/A) | basic | 12 Aug 2026 | 02:50 am |
+| 29 | [1742A - Sum](./Codeforces/basic/1742A%20-%20Sum) | [Codeforces](https://codeforces.com/problemset/problem/1742/A) | basic | 12 Aug 2026 | 02:50 am |

@@ -1,14 +1,14 @@
 {
-  "totalSolved": 13,
-  "currentStreak": 1,
-  "maxStreak": 1,
-  "lastSyncDate": "2026-08-11",
-  "todayCount": 13,
+  "totalSolved": 14,
+  "currentStreak": 2,
+  "maxStreak": 2,
+  "lastSyncDate": "2026-08-12",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 5,
     "medium": 7,
     "hard": 1,
-    "basic": 0
+    "basic": 1
   },
   "syncedProblems": {
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
@@ -23,24 +23,14 @@
     "LeetCode_3Sum": true,
     "LeetCode_3Sum_Closest": true,
     "LeetCode_4Sum": true,
-    "LeetCode_Valid_Parentheses": true
+    "LeetCode_Valid_Parentheses": true,
+    "Codeforces_2247A_-_Zero_Sum": true
   },
   "activityHistory": {
-    "2026-08-11": 13
+    "2026-08-11": 13,
+    "2026-08-12": 1
   },
   "todayProblems": [
-    "Median of Two Sorted Arrays",
-    "Two Sum",
-    "Longest Substring Without Repeating Characters",
-    "Reverse Integer",
-    "Palindrome Number",
-    "Container With Most Water",
-    "Integer to Roman",
-    "Roman to Integer",
-    "Longest Common Prefix",
-    "3Sum",
-    "3Sum Closest",
-    "4Sum",
-    "Valid Parentheses"
+    "2247A - Zero Sum"
   ]
 }

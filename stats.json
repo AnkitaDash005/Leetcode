@@ -1,14 +1,14 @@
 {
-  "totalSolved": 48,
+  "totalSolved": 49,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-12",
-  "todayCount": 35,
+  "todayCount": 36,
   "difficultyCounts": {
     "easy": 5,
     "medium": 7,
     "hard": 1,
-    "basic": 35
+    "basic": 36
   },
   "syncedProblems": {
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
@@ -58,11 +58,12 @@
     "Codeforces_617A_-_Elephant": true,
     "Codeforces_791A_-_Bear_and_Big_Brother": true,
     "Codeforces_281A_-_Word_Capitalization": true,
-    "Codeforces_339A_-_Helpful_Maths": true
+    "Codeforces_339A_-_Helpful_Maths": true,
+    "Codeforces_236A_-_Boy_or_Girl": true
   },
   "activityHistory": {
     "2026-08-11": 13,
-    "2026-08-12": 35
+    "2026-08-12": 36
   },
   "todayProblems": [
     "2247A - Zero Sum",
@@ -99,6 +100,7 @@
     "617A - Elephant",
     "791A - Bear and Big Brother",
     "281A - Word Capitalization",
-    "339A - Helpful Maths"
+    "339A - Helpful Maths",
+    "236A - Boy or Girl"
   ]
 }

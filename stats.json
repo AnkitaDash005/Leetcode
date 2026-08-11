@@ -1,14 +1,14 @@
 {
-  "totalSolved": 46,
+  "totalSolved": 47,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-12",
-  "todayCount": 33,
+  "todayCount": 34,
   "difficultyCounts": {
     "easy": 5,
     "medium": 7,
     "hard": 1,
-    "basic": 33
+    "basic": 34
   },
   "syncedProblems": {
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
@@ -56,11 +56,12 @@
     "Codeforces_160A_-_Twins": true,
     "Codeforces_96A_-_Football": true,
     "Codeforces_617A_-_Elephant": true,
-    "Codeforces_791A_-_Bear_and_Big_Brother": true
+    "Codeforces_791A_-_Bear_and_Big_Brother": true,
+    "Codeforces_281A_-_Word_Capitalization": true
   },
   "activityHistory": {
     "2026-08-11": 13,
-    "2026-08-12": 33
+    "2026-08-12": 34
   },
   "todayProblems": [
     "2247A - Zero Sum",
@@ -95,6 +96,7 @@
     "160A - Twins",
     "96A - Football",
     "617A - Elephant",
-    "791A - Bear and Big Brother"
+    "791A - Bear and Big Brother",
+    "281A - Word Capitalization"
   ]
 }

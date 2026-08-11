@@ -32,3 +32,4 @@
 | 30 | [41A - Translation](./Codeforces/basic/41A%20-%20Translation) | [Codeforces](https://codeforces.com/problemset/problem/41/A) | basic | 12 Aug 2026 | 02:51 am |
 | 31 | [734A - Anton and Danik](./Codeforces/basic/734A%20-%20Anton%20and%20Danik) | [Codeforces](https://codeforces.com/problemset/problem/734/A) | basic | 12 Aug 2026 | 02:51 am |
 | 32 | [977A - Wrong Subtraction](./Codeforces/basic/977A%20-%20Wrong%20Subtraction) | [Codeforces](https://codeforces.com/problemset/problem/977/A) | basic | 12 Aug 2026 | 02:51 am |
+| 33 | [59A - Word](./Codeforces/basic/59A%20-%20Word) | [Codeforces](https://codeforces.com/problemset/problem/59/A) | basic | 12 Aug 2026 | 02:51 am |

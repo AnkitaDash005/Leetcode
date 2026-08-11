@@ -51,3 +51,4 @@
 | 49 | [263A - Beautiful Matrix](./Codeforces/basic/263A%20-%20Beautiful%20Matrix) | [Codeforces](https://codeforces.com/problemset/problem/263/A) | basic | 12 Aug 2026 | 02:52 am |
 | 50 | [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 12 Aug 2026 | 03:19 am |
 | 51 | [Remove Element](./LeetCode/Easy/Remove%20Element) | [LeetCode](https://leetcode.com/problems/remove-element/) | Easy | 12 Aug 2026 | 03:19 am |
+| 52 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 12 Aug 2026 | 03:20 am |

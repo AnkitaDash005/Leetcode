@@ -1,12 +1,12 @@
 {
-  "totalSolved": 53,
+  "totalSolved": 54,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-12",
-  "todayCount": 40,
+  "todayCount": 41,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 7,
+    "medium": 8,
     "hard": 1,
     "basic": 38
   },
@@ -63,11 +63,12 @@
     "Codeforces_112A_-_Petya_and_Strings": true,
     "Codeforces_263A_-_Beautiful_Matrix": true,
     "LeetCode_Remove_Duplicates_from_Sorted_Array": true,
-    "LeetCode_Remove_Element": true
+    "LeetCode_Remove_Element": true,
+    "LeetCode_Search_in_Rotated_Sorted_Array": true
   },
   "activityHistory": {
     "2026-08-11": 13,
-    "2026-08-12": 40
+    "2026-08-12": 41
   },
   "todayProblems": [
     "2247A - Zero Sum",
@@ -109,6 +110,7 @@
     "112A - Petya and Strings",
     "263A - Beautiful Matrix",
     "Remove Duplicates from Sorted Array",
-    "Remove Element"
+    "Remove Element",
+    "Search in Rotated Sorted Array"
   ]
 }

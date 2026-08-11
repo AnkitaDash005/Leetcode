@@ -1,12 +1,12 @@
 {
-  "totalSolved": 5,
+  "totalSolved": 6,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-11",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 2,
+    "medium": 3,
     "hard": 1,
     "basic": 0
   },
@@ -15,16 +15,18 @@
     "LeetCode_Two_Sum": true,
     "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
     "LeetCode_Reverse_Integer": true,
-    "LeetCode_Palindrome_Number": true
+    "LeetCode_Palindrome_Number": true,
+    "LeetCode_Container_With_Most_Water": true
   },
   "activityHistory": {
-    "2026-08-11": 5
+    "2026-08-11": 6
   },
   "todayProblems": [
     "Median of Two Sorted Arrays",
     "Two Sum",
     "Longest Substring Without Repeating Characters",
     "Reverse Integer",
-    "Palindrome Number"
+    "Palindrome Number",
+    "Container With Most Water"
   ]
 }

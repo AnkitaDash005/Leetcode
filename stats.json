@@ -1,12 +1,12 @@
 {
-  "totalSolved": 9,
+  "totalSolved": 10,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-11",
-  "todayCount": 9,
+  "todayCount": 10,
   "difficultyCounts": {
     "easy": 4,
-    "medium": 4,
+    "medium": 5,
     "hard": 1,
     "basic": 0
   },
@@ -19,10 +19,11 @@
     "LeetCode_Container_With_Most_Water": true,
     "LeetCode_Integer_to_Roman": true,
     "LeetCode_Roman_to_Integer": true,
-    "LeetCode_Longest_Common_Prefix": true
+    "LeetCode_Longest_Common_Prefix": true,
+    "LeetCode_3Sum": true
   },
   "activityHistory": {
-    "2026-08-11": 9
+    "2026-08-11": 10
   },
   "todayProblems": [
     "Median of Two Sorted Arrays",
@@ -33,6 +34,7 @@
     "Container With Most Water",
     "Integer to Roman",
     "Roman to Integer",
-    "Longest Common Prefix"
+    "Longest Common Prefix",
+    "3Sum"
   ]
 }

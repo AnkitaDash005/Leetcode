@@ -1,0 +1,25 @@
+import java.util.Scanner;
+
+public class oddDivisor_1475A{
+    public static void divisorCheck(long num) {
+       while(num%2==0){
+            num /=2;
+       }
+       if(num==1){
+        System.out.println("NO");
+       }
+       else{
+        System.out.println("YES");
+       }
+    }
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        long n=sc.nextLong();
+        while(n>0){
+            long num=sc.nextLong();
+            divisorCheck(num);
+            n--;
+        }
+        sc.close();
+    }
+}

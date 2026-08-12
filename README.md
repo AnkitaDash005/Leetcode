@@ -59,3 +59,4 @@
 | 57 | [Climbing Stairs](./LeetCode/Easy/Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/climbing-stairs/) | Easy | 12 Aug 2026 | 11:18 pm |
 | 58 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 12 Aug 2026 | 11:18 pm |
 | 59 | [Subsets](./LeetCode/Medium/Subsets) | [LeetCode](https://leetcode.com/problems/subsets/) | Medium | 12 Aug 2026 | 11:19 pm |
+| 60 | [Search in Rotated Sorted Array II](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array%20II) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | 12 Aug 2026 | 11:21 pm |

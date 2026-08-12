@@ -55,3 +55,4 @@
 | 53 | [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) | [LeetCode](https://leetcode.com/problems/search-insert-position/) | Easy | 12 Aug 2026 | 03:22 am |
 | 54 | [First Missing Positive](./LeetCode/Hard/First%20Missing%20Positive) | [LeetCode](https://leetcode.com/problems/first-missing-positive/) | Hard | 12 Aug 2026 | 03:23 am |
 | 55 | [Multiply Strings](./LeetCode/Medium/Multiply%20Strings) | [LeetCode](https://leetcode.com/problems/multiply-strings/) | Medium | 12 Aug 2026 | 03:23 am |
+| 56 | [Plus One](./LeetCode/Easy/Plus%20One) | [LeetCode](https://leetcode.com/problems/plus-one/) | Easy | 12 Aug 2026 | 11:17 pm |

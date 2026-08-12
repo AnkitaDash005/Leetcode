@@ -56,3 +56,4 @@
 | 54 | [First Missing Positive](./LeetCode/Hard/First%20Missing%20Positive) | [LeetCode](https://leetcode.com/problems/first-missing-positive/) | Hard | 12 Aug 2026 | 03:23 am |
 | 55 | [Multiply Strings](./LeetCode/Medium/Multiply%20Strings) | [LeetCode](https://leetcode.com/problems/multiply-strings/) | Medium | 12 Aug 2026 | 03:23 am |
 | 56 | [Plus One](./LeetCode/Easy/Plus%20One) | [LeetCode](https://leetcode.com/problems/plus-one/) | Easy | 12 Aug 2026 | 11:17 pm |
+| 57 | [Climbing Stairs](./LeetCode/Easy/Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/climbing-stairs/) | Easy | 12 Aug 2026 | 11:18 pm |

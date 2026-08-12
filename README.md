@@ -61,3 +61,4 @@
 | 59 | [Subsets](./LeetCode/Medium/Subsets) | [LeetCode](https://leetcode.com/problems/subsets/) | Medium | 12 Aug 2026 | 11:19 pm |
 | 60 | [Search in Rotated Sorted Array II](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array%20II) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | 12 Aug 2026 | 11:21 pm |
 | 61 | [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/merge-sorted-array/) | Easy | 12 Aug 2026 | 11:28 pm |
+| 62 | [Pascal's Triangle](./LeetCode/Easy/Pascal's%20Triangle) | [LeetCode](https://leetcode.com/problems/pascals-triangle/) | Easy | 12 Aug 2026 | 11:29 pm |

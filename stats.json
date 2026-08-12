@@ -1,12 +1,12 @@
 {
-  "totalSolved": 59,
+  "totalSolved": 60,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-12",
-  "todayCount": 46,
+  "todayCount": 47,
   "difficultyCounts": {
     "easy": 10,
-    "medium": 9,
+    "medium": 10,
     "hard": 2,
     "basic": 38
   },
@@ -69,11 +69,12 @@
     "LeetCode_First_Missing_Positive": true,
     "LeetCode_Multiply_Strings": true,
     "LeetCode_Plus_One": true,
-    "LeetCode_Climbing_Stairs": true
+    "LeetCode_Climbing_Stairs": true,
+    "LeetCode_Sort_Colors": true
   },
   "activityHistory": {
     "2026-08-11": 13,
-    "2026-08-12": 46
+    "2026-08-12": 47
   },
   "todayProblems": [
     "2247A - Zero Sum",
@@ -121,6 +122,7 @@
     "First Missing Positive",
     "Multiply Strings",
     "Plus One",
-    "Climbing Stairs"
+    "Climbing Stairs",
+    "Sort Colors"
   ]
 }

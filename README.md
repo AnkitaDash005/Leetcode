@@ -58,3 +58,4 @@
 | 56 | [Plus One](./LeetCode/Easy/Plus%20One) | [LeetCode](https://leetcode.com/problems/plus-one/) | Easy | 12 Aug 2026 | 11:17 pm |
 | 57 | [Climbing Stairs](./LeetCode/Easy/Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/climbing-stairs/) | Easy | 12 Aug 2026 | 11:18 pm |
 | 58 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 12 Aug 2026 | 11:18 pm |
+| 59 | [Subsets](./LeetCode/Medium/Subsets) | [LeetCode](https://leetcode.com/problems/subsets/) | Medium | 12 Aug 2026 | 11:19 pm |

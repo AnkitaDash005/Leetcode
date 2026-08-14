@@ -70,3 +70,4 @@
 | 68 | [Palindrome Linked List](./LeetCode/Easy/Palindrome%20Linked%20List) | [LeetCode](https://leetcode.com/problems/palindrome-linked-list/) | Easy | 15 Aug 2026 | 01:50 am |
 | 69 | [Add Digits](./LeetCode/Easy/Add%20Digits) | [LeetCode](https://leetcode.com/problems/add-digits/) | Easy | 15 Aug 2026 | 01:56 am |
 | 70 | [Power of Three](./LeetCode/Easy/Power%20of%20Three) | [LeetCode](https://leetcode.com/problems/power-of-three/) | Easy | 15 Aug 2026 | 02:05 am |
+| 71 | [Power of Four](./LeetCode/Easy/Power%20of%20Four) | [LeetCode](https://leetcode.com/problems/power-of-four/) | Easy | 15 Aug 2026 | 02:10 am |

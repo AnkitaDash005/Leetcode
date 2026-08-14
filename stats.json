@@ -1,11 +1,11 @@
 {
-  "totalSolved": 72,
+  "totalSolved": 73,
   "currentStreak": 1,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-15",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 19,
+    "easy": 20,
     "medium": 13,
     "hard": 2,
     "basic": 38
@@ -82,17 +82,19 @@
     "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true,
     "LeetCode_Palindrome_Linked_List": true,
     "LeetCode_Add_Digits": true,
-    "LeetCode_Power_of_Three": true
+    "LeetCode_Power_of_Three": true,
+    "LeetCode_Power_of_Four": true
   },
   "activityHistory": {
     "2026-08-11": 13,
     "2026-08-12": 55,
     "2026-08-13": 1,
-    "2026-08-15": 3
+    "2026-08-15": 4
   },
   "todayProblems": [
     "Palindrome Linked List",
     "Add Digits",
-    "Power of Three"
+    "Power of Three",
+    "Power of Four"
   ]
 }

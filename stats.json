@@ -1,11 +1,11 @@
 {
-  "totalSolved": 75,
+  "totalSolved": 76,
   "currentStreak": 1,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-15",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
-    "easy": 22,
+    "easy": 23,
     "medium": 13,
     "hard": 2,
     "basic": 38
@@ -85,13 +85,14 @@
     "LeetCode_Power_of_Three": true,
     "LeetCode_Power_of_Four": true,
     "LeetCode_Fizz_Buzz": true,
-    "LeetCode_Arranging_Coins": true
+    "LeetCode_Arranging_Coins": true,
+    "LeetCode_Perfect_Number": true
   },
   "activityHistory": {
     "2026-08-11": 13,
     "2026-08-12": 55,
     "2026-08-13": 1,
-    "2026-08-15": 6
+    "2026-08-15": 7
   },
   "todayProblems": [
     "Palindrome Linked List",
@@ -99,6 +100,7 @@
     "Power of Three",
     "Power of Four",
     "Fizz Buzz",
-    "Arranging Coins"
+    "Arranging Coins",
+    "Perfect Number"
   ]
 }

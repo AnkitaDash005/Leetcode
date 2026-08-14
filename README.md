@@ -73,3 +73,4 @@
 | 71 | [Power of Four](./LeetCode/Easy/Power%20of%20Four) | [LeetCode](https://leetcode.com/problems/power-of-four/) | Easy | 15 Aug 2026 | 02:10 am |
 | 72 | [Fizz Buzz](./LeetCode/Easy/Fizz%20Buzz) | [LeetCode](https://leetcode.com/problems/fizz-buzz/) | Easy | 15 Aug 2026 | 02:25 am |
 | 73 | [Arranging Coins](./LeetCode/Easy/Arranging%20Coins) | [LeetCode](https://leetcode.com/problems/arranging-coins/) | Easy | 15 Aug 2026 | 02:32 am |
+| 74 | [Perfect Number](./LeetCode/Easy/Perfect%20Number) | [LeetCode](https://leetcode.com/problems/perfect-number/) | Easy | 15 Aug 2026 | 02:40 am |

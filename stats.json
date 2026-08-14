@@ -1,11 +1,11 @@
 {
-  "totalSolved": 77,
+  "totalSolved": 78,
   "currentStreak": 1,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-15",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
-    "easy": 24,
+    "easy": 25,
     "medium": 13,
     "hard": 2,
     "basic": 38
@@ -87,13 +87,14 @@
     "LeetCode_Fizz_Buzz": true,
     "LeetCode_Arranging_Coins": true,
     "LeetCode_Perfect_Number": true,
-    "LeetCode_Fibonacci_Number": true
+    "LeetCode_Fibonacci_Number": true,
+    "LeetCode_Student_Attendance_Record_I": true
   },
   "activityHistory": {
     "2026-08-11": 13,
     "2026-08-12": 55,
     "2026-08-13": 1,
-    "2026-08-15": 8
+    "2026-08-15": 9
   },
   "todayProblems": [
     "Palindrome Linked List",
@@ -103,6 +104,7 @@
     "Fizz Buzz",
     "Arranging Coins",
     "Perfect Number",
-    "Fibonacci Number"
+    "Fibonacci Number",
+    "Student Attendance Record I"
   ]
 }

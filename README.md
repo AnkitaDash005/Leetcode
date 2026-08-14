@@ -75,3 +75,4 @@
 | 73 | [Arranging Coins](./LeetCode/Easy/Arranging%20Coins) | [LeetCode](https://leetcode.com/problems/arranging-coins/) | Easy | 15 Aug 2026 | 02:32 am |
 | 74 | [Perfect Number](./LeetCode/Easy/Perfect%20Number) | [LeetCode](https://leetcode.com/problems/perfect-number/) | Easy | 15 Aug 2026 | 02:40 am |
 | 75 | [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) | [LeetCode](https://leetcode.com/problems/fibonacci-number/) | Easy | 15 Aug 2026 | 02:42 am |
+| 76 | [Student Attendance Record I](./LeetCode/Easy/Student%20Attendance%20Record%20I) | [LeetCode](https://leetcode.com/problems/student-attendance-record-i/) | Easy | 15 Aug 2026 | 03:03 am |

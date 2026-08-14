@@ -69,3 +69,4 @@
 | 67 | [Find Minimum in Rotated Sorted Array](./LeetCode/Medium/Find%20Minimum%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | 13 Aug 2026 | 10:29 pm |
 | 68 | [Palindrome Linked List](./LeetCode/Easy/Palindrome%20Linked%20List) | [LeetCode](https://leetcode.com/problems/palindrome-linked-list/) | Easy | 15 Aug 2026 | 01:50 am |
 | 69 | [Add Digits](./LeetCode/Easy/Add%20Digits) | [LeetCode](https://leetcode.com/problems/add-digits/) | Easy | 15 Aug 2026 | 01:56 am |
+| 70 | [Power of Three](./LeetCode/Easy/Power%20of%20Three) | [LeetCode](https://leetcode.com/problems/power-of-three/) | Easy | 15 Aug 2026 | 02:05 am |

@@ -1,14 +1,14 @@
 {
-  "totalSolved": 84,
+  "totalSolved": 85,
   "currentStreak": 1,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-15",
-  "todayCount": 15,
+  "todayCount": 16,
   "difficultyCounts": {
     "easy": 25,
     "medium": 13,
     "hard": 2,
-    "basic": 44
+    "basic": 45
   },
   "syncedProblems": {
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
@@ -94,13 +94,14 @@
     "Codeforces_520A_-_Pangram": true,
     "Codeforces_1890A_-_Doremys_Paint_3": true,
     "Codeforces_2255D_-_How_Long_Until_Nothing_Remains": true,
-    "Codeforces_660B_-_Seating_On_Bus": true
+    "Codeforces_660B_-_Seating_On_Bus": true,
+    "Codeforces_2000E_-_Photoshoot_for_Gorillas": true
   },
   "activityHistory": {
     "2026-08-11": 13,
     "2026-08-12": 55,
     "2026-08-13": 1,
-    "2026-08-15": 15
+    "2026-08-15": 16
   },
   "todayProblems": [
     "Palindrome Linked List",
@@ -117,6 +118,7 @@
     "520A - Pangram",
     "1890A - Doremys Paint 3",
     "2255D - How Long Until Nothing Remains",
-    "660B - Seating On Bus"
+    "660B - Seating On Bus",
+    "2000E - Photoshoot for Gorillas"
   ]
 }

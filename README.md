@@ -76,11 +76,4 @@
 | 74 | [Perfect Number](./LeetCode/Easy/Perfect%20Number) | [LeetCode](https://leetcode.com/problems/perfect-number/) | Easy | 15 Aug 2026 | 02:40 am |
 | 75 | [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) | [LeetCode](https://leetcode.com/problems/fibonacci-number/) | Easy | 15 Aug 2026 | 02:42 am |
 | 76 | [Student Attendance Record I](./LeetCode/Easy/Student%20Attendance%20Record%20I) | [LeetCode](https://leetcode.com/problems/student-attendance-record-i/) | Easy | 15 Aug 2026 | 03:03 am |
-| 77 | [228A - Is your horseshoe on the other hoof](./Codeforces/basic/228A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof) | [Codeforces](https://codeforces.com/problemset/problem/228/A) | basic | 15 Aug 2026 | 07:58 pm |
-| 78 | [2123F - Minimize Fixed Points](./Codeforces/basic/2123F%20-%20Minimize%20Fixed%20Points) | [Codeforces](https://codeforces.com/problemset/problem/2123/F) | basic | 15 Aug 2026 | 07:58 pm |
-| 79 | [520A - Pangram](./Codeforces/basic/520A%20-%20Pangram) | [Codeforces](https://codeforces.com/problemset/problem/520/A) | basic | 15 Aug 2026 | 07:58 pm |
-| 80 | [479A - Expression](./Codeforces/basic/479A%20-%20Expression) | [Codeforces](https://codeforces.com/problemset/problem/479/A) | basic | 15 Aug 2026 | 07:58 pm |
-| 81 | [1890A - Doremys Paint 3](./Codeforces/basic/1890A%20-%20Doremys%20Paint%203) | [Codeforces](https://codeforces.com/problemset/problem/1890/A) | basic | 15 Aug 2026 | 07:58 pm |
-| 82 | [2255D - How Long Until Nothing Remains](./Codeforces/basic/2255D%20-%20How%20Long%20Until%20Nothing%20Remains) | [Codeforces](https://codeforces.com/problemset/problem/2255/D) | basic | 15 Aug 2026 | 07:58 pm |
-| 83 | [660B - Seating On Bus](./Codeforces/basic/660B%20-%20Seating%20On%20Bus) | [Codeforces](https://codeforces.com/problemset/problem/660/B) | basic | 15 Aug 2026 | 07:58 pm |
-| 84 | [2000E - Photoshoot for Gorillas](./Codeforces/basic/2000E%20-%20Photoshoot%20for%20Gorillas) | [Codeforces](https://codeforces.com/problemset/problem/2000/E) | basic | 15 Aug 2026 | 07:58 pm |
+forces.com/problemset/problem/2000/E) | basic | 15 Aug 2026 | 07:58 pm |

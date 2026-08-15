@@ -1,11 +1,11 @@
 {
-  "totalSolved": 86,
+  "totalSolved": 87,
   "currentStreak": 2,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-16",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 26,
+    "easy": 27,
     "medium": 13,
     "hard": 2,
     "basic": 45
@@ -96,16 +96,18 @@
     "Codeforces_2255D_-_How_Long_Until_Nothing_Remains": true,
     "Codeforces_660B_-_Seating_On_Bus": true,
     "Codeforces_2000E_-_Photoshoot_for_Gorillas": true,
-    "LeetCode_Remove_Linked_List_Elements": true
+    "LeetCode_Remove_Linked_List_Elements": true,
+    "LeetCode_Reverse_Linked_List": true
   },
   "activityHistory": {
     "2026-08-11": 13,
     "2026-08-12": 55,
     "2026-08-13": 1,
     "2026-08-15": 16,
-    "2026-08-16": 1
+    "2026-08-16": 2
   },
   "todayProblems": [
-    "Remove Linked List Elements"
+    "Remove Linked List Elements",
+    "Reverse Linked List"
   ]
 }

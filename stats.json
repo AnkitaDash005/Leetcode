@@ -1,14 +1,14 @@
 {
-  "totalSolved": 79,
+  "totalSolved": 80,
   "currentStreak": 1,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-15",
-  "todayCount": 10,
+  "todayCount": 11,
   "difficultyCounts": {
     "easy": 25,
     "medium": 13,
     "hard": 2,
-    "basic": 39
+    "basic": 40
   },
   "syncedProblems": {
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
@@ -89,13 +89,14 @@
     "LeetCode_Perfect_Number": true,
     "LeetCode_Fibonacci_Number": true,
     "LeetCode_Student_Attendance_Record_I": true,
-    "Codeforces_228A_-_Is_your_horseshoe_on_the_other_hoof": true
+    "Codeforces_228A_-_Is_your_horseshoe_on_the_other_hoof": true,
+    "Codeforces_2123F_-_Minimize_Fixed_Points": true
   },
   "activityHistory": {
     "2026-08-11": 13,
     "2026-08-12": 55,
     "2026-08-13": 1,
-    "2026-08-15": 10
+    "2026-08-15": 11
   },
   "todayProblems": [
     "Palindrome Linked List",
@@ -107,6 +108,7 @@
     "Perfect Number",
     "Fibonacci Number",
     "Student Attendance Record I",
-    "228A - Is your horseshoe on the other hoof"
+    "228A - Is your horseshoe on the other hoof",
+    "2123F - Minimize Fixed Points"
   ]
 }

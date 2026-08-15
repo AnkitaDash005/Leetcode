@@ -80,3 +80,4 @@
 | 78 | [2123F - Minimize Fixed Points](./Codeforces/basic/2123F%20-%20Minimize%20Fixed%20Points) | [Codeforces](https://codeforces.com/problemset/problem/2123/F) | basic | 15 Aug 2026 | 07:58 pm |
 | 79 | [520A - Pangram](./Codeforces/basic/520A%20-%20Pangram) | [Codeforces](https://codeforces.com/problemset/problem/520/A) | basic | 15 Aug 2026 | 07:58 pm |
 | 80 | [479A - Expression](./Codeforces/basic/479A%20-%20Expression) | [Codeforces](https://codeforces.com/problemset/problem/479/A) | basic | 15 Aug 2026 | 07:58 pm |
+| 81 | [1890A - Doremys Paint 3](./Codeforces/basic/1890A%20-%20Doremys%20Paint%203) | [Codeforces](https://codeforces.com/problemset/problem/1890/A) | basic | 15 Aug 2026 | 07:58 pm |

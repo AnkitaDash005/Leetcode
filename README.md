@@ -82,3 +82,4 @@
 | 80 | [479A - Expression](./Codeforces/basic/479A%20-%20Expression) | [Codeforces](https://codeforces.com/problemset/problem/479/A) | basic | 15 Aug 2026 | 07:58 pm |
 | 81 | [1890A - Doremys Paint 3](./Codeforces/basic/1890A%20-%20Doremys%20Paint%203) | [Codeforces](https://codeforces.com/problemset/problem/1890/A) | basic | 15 Aug 2026 | 07:58 pm |
 | 82 | [2255D - How Long Until Nothing Remains](./Codeforces/basic/2255D%20-%20How%20Long%20Until%20Nothing%20Remains) | [Codeforces](https://codeforces.com/problemset/problem/2255/D) | basic | 15 Aug 2026 | 07:58 pm |
+| 83 | [660B - Seating On Bus](./Codeforces/basic/660B%20-%20Seating%20On%20Bus) | [Codeforces](https://codeforces.com/problemset/problem/660/B) | basic | 15 Aug 2026 | 07:58 pm |

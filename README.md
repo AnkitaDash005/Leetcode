@@ -76,3 +76,4 @@
 | 74 | [Perfect Number](./LeetCode/Easy/Perfect%20Number) | [LeetCode](https://leetcode.com/problems/perfect-number/) | Easy | 15 Aug 2026 | 02:40 am |
 | 75 | [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) | [LeetCode](https://leetcode.com/problems/fibonacci-number/) | Easy | 15 Aug 2026 | 02:42 am |
 | 76 | [Student Attendance Record I](./LeetCode/Easy/Student%20Attendance%20Record%20I) | [LeetCode](https://leetcode.com/problems/student-attendance-record-i/) | Easy | 15 Aug 2026 | 03:03 am |
+| 77 | [228A - Is your horseshoe on the other hoof](./Codeforces/basic/228A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof) | [Codeforces](https://codeforces.com/problemset/problem/228/A) | basic | 15 Aug 2026 | 07:58 pm |

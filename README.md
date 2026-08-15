@@ -70,3 +70,4 @@
 | 68 | [Remove Linked List Elements](./LeetCode/Easy/Remove%20Linked%20List%20Elements) | [LeetCode](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | 16 Aug 2026 | 02:10 am |
 | 69 | [Reverse Linked List](./LeetCode/Easy/Reverse%20Linked%20List) | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) | Easy | 16 Aug 2026 | 02:14 am |
 | 70 | [Power of Two](./LeetCode/Easy/Power%20of%20Two) | [LeetCode](https://leetcode.com/problems/power-of-two/) | Easy | 16 Aug 2026 | 02:20 am |
+| 71 | [Robot Return to Origin](./LeetCode/Easy/Robot%20Return%20to%20Origin) | [LeetCode](https://leetcode.com/problems/robot-return-to-origin/) | Easy | 16 Aug 2026 | 02:49 am |

@@ -79,3 +79,4 @@
 | 77 | [228A - Is your horseshoe on the other hoof](./Codeforces/basic/228A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof) | [Codeforces](https://codeforces.com/problemset/problem/228/A) | basic | 15 Aug 2026 | 07:58 pm |
 | 78 | [2123F - Minimize Fixed Points](./Codeforces/basic/2123F%20-%20Minimize%20Fixed%20Points) | [Codeforces](https://codeforces.com/problemset/problem/2123/F) | basic | 15 Aug 2026 | 07:58 pm |
 | 79 | [520A - Pangram](./Codeforces/basic/520A%20-%20Pangram) | [Codeforces](https://codeforces.com/problemset/problem/520/A) | basic | 15 Aug 2026 | 07:58 pm |
+| 80 | [479A - Expression](./Codeforces/basic/479A%20-%20Expression) | [Codeforces](https://codeforces.com/problemset/problem/479/A) | basic | 15 Aug 2026 | 07:58 pm |

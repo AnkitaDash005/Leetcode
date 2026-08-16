@@ -1,14 +1,14 @@
 {
-  "totalSolved": 98,
-  "currentStreak": 2,
+  "totalSolved": 99,
+  "currentStreak": 3,
   "maxStreak": 3,
-  "lastSyncDate": "2026-08-16",
-  "todayCount": 13,
+  "lastSyncDate": "2026-08-17",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 29,
     "medium": 13,
     "hard": 2,
-    "basic": 54
+    "basic": 55
   },
   "syncedProblems": {
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
@@ -108,28 +108,18 @@
     "Codeforces_1669A_-_Division": true,
     "Codeforces_1676A_-_Lucky": true,
     "Codeforces_1692A_-_Marathon": true,
-    "Codeforces_1807A_-_Plus_or_Minus": true
+    "Codeforces_1807A_-_Plus_or_Minus": true,
+    "Codeforces_379A_-_New_Year_Candles": true
   },
   "activityHistory": {
     "2026-08-11": 13,
     "2026-08-12": 55,
     "2026-08-13": 1,
     "2026-08-15": 16,
-    "2026-08-16": 13
+    "2026-08-16": 13,
+    "2026-08-17": 1
   },
   "todayProblems": [
-    "Remove Linked List Elements",
-    "Reverse Linked List",
-    "Power of Two",
-    "Robot Return to Origin",
-    "705A - Hulk",
-    "1362C - Johnny and Another Rating Drop",
-    "2256B - Domino Tiles",
-    "1328A - Divisibility Problem",
-    "630A - Again Twenty Five",
-    "1669A - Division",
-    "1676A - Lucky",
-    "1692A - Marathon",
-    "1807A - Plus or Minus"
+    "379A - New Year Candles"
   ]
 }

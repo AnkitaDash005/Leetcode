@@ -77,3 +77,4 @@
 | 75 | [1669A - Division](./Codeforces/basic/1669A%20-%20Division) | [Codeforces](https://codeforces.com/problemset/problem/1669/A) | basic | 16 Aug 2026 | 03:19 pm |
 | 76 | [1676A - Lucky](./Codeforces/basic/1676A%20-%20Lucky) | [Codeforces](https://codeforces.com/problemset/problem/1676/A) | basic | 16 Aug 2026 | 03:37 pm |
 | 77 | [1692A - Marathon](./Codeforces/basic/1692A%20-%20Marathon) | [Codeforces](https://codeforces.com/problemset/problem/1692/A) | basic | 16 Aug 2026 | 03:49 pm |
+| 78 | [1807A - Plus or Minus](./Codeforces/basic/1807A%20-%20Plus%20or%20Minus) | [Codeforces](https://codeforces.com/problemset/problem/1807/A) | basic | 16 Aug 2026 | 03:55 pm |

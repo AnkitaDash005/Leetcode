@@ -75,3 +75,4 @@
 | 73 | [1328A - Divisibility Problem](./Codeforces/basic/1328A%20-%20Divisibility%20Problem) | [Codeforces](https://codeforces.com/problemset/problem/1328/A) | basic | 16 Aug 2026 | 02:42 pm |
 | 74 | [630A - Again Twenty Five](./Codeforces/basic/630A%20-%20Again%20Twenty%20Five) | [Codeforces](https://codeforces.com/problemset/problem/630/A) | basic | 16 Aug 2026 | 02:59 pm |
 | 75 | [1669A - Division](./Codeforces/basic/1669A%20-%20Division) | [Codeforces](https://codeforces.com/problemset/problem/1669/A) | basic | 16 Aug 2026 | 03:19 pm |
+| 76 | [1676A - Lucky](./Codeforces/basic/1676A%20-%20Lucky) | [Codeforces](https://codeforces.com/problemset/problem/1676/A) | basic | 16 Aug 2026 | 03:37 pm |

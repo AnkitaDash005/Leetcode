@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public class Marathon_1692A {
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        int k=sc.nextInt();
+        while(k-->0){
+            int []arr=new int[4];
+            int count=0;
+            arr[0]=sc.nextInt();
+            for(int i=1;i<arr.length;i++){
+                arr[i]=sc.nextInt();
+                if(arr[i]>arr[0]){
+                    count++;
+                }
+            }
+            System.out.println(count);
+
+        }
+        sc.close();
+    }
+}

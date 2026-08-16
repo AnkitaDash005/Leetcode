@@ -72,5 +72,4 @@
 | 70 | [Power of Two](./LeetCode/Easy/Power%20of%20Two) | [LeetCode](https://leetcode.com/problems/power-of-two/) | Easy | 16 Aug 2026 | 02:20 am |
 | 71 | [Robot Return to Origin](./LeetCode/Easy/Robot%20Return%20to%20Origin) | [LeetCode](https://leetcode.com/problems/robot-return-to-origin/) | Easy | 16 Aug 2026 | 02:49 am |
 | 72 | [705A - Hulk](./Codeforces/basic/705A%20-%20Hulk) | [Codeforces](https://codeforces.com/problemset/problem/705/A) | basic | 16 Aug 2026 | 02:25 pm |
-| 73 | [1362C - Johnny and Another Rating Drop](./Codeforces/basic/1362C%20-%20Johnny%20and%20Another%20Rating%20Drop) | [Codeforces](https://codeforces.com/problemset/problem/1362/C) | basic | 16 Aug 2026 | 02:27 pm |
-| 74 | [2256B - Domino Tiles](./Codeforces/basic/2256B%20-%20Domino%20Tiles) | [Codeforces](https://codeforces.com/problemset/problem/2256/B) | basic | 16 Aug 2026 | 02:27 pm |
+

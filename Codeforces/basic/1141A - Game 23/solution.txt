@@ -1,0 +1,34 @@
+import java.util.*;
+public class Game23_1141A {
+    public static void main(String[]args){
+        Scanner sc=new Scanner(System.in);
+        int a=sc.nextInt();
+        int b=sc.nextInt();
+        int steps=0;
+        
+        if(b%a!=0){
+            System.out.println(-1);
+        }
+        else{
+            b=b/a;
+            while(b%3==0){
+                    steps++;
+                    b/=3;
+                }
+                while(b%2==0){
+                    steps++;
+                    b/=2;
+                }
+                if(b==1){
+                System.out.println(steps);
+            }
+            else{
+                System.out.println(-1);
+            }
+            }
+            
+            sc.close();
+        }
+        
+    }
+

@@ -1,14 +1,14 @@
 {
-  "totalSolved": 99,
+  "totalSolved": 100,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-17",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 29,
     "medium": 13,
     "hard": 2,
-    "basic": 55
+    "basic": 56
   },
   "syncedProblems": {
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
@@ -109,7 +109,8 @@
     "Codeforces_1676A_-_Lucky": true,
     "Codeforces_1692A_-_Marathon": true,
     "Codeforces_1807A_-_Plus_or_Minus": true,
-    "Codeforces_379A_-_New_Year_Candles": true
+    "Codeforces_379A_-_New_Year_Candles": true,
+    "Codeforces_1141A_-_Game_23": true
   },
   "activityHistory": {
     "2026-08-11": 13,
@@ -117,9 +118,10 @@
     "2026-08-13": 1,
     "2026-08-15": 16,
     "2026-08-16": 13,
-    "2026-08-17": 1
+    "2026-08-17": 2
   },
   "todayProblems": [
-    "379A - New Year Candles"
+    "379A - New Year Candles",
+    "1141A - Game 23"
   ]
 }

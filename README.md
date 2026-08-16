@@ -73,3 +73,4 @@
 | 71 | [Robot Return to Origin](./LeetCode/Easy/Robot%20Return%20to%20Origin) | [LeetCode](https://leetcode.com/problems/robot-return-to-origin/) | Easy | 16 Aug 2026 | 02:49 am |
 | 72 | [705A - Hulk](./Codeforces/basic/705A%20-%20Hulk) | [Codeforces](https://codeforces.com/problemset/problem/705/A) | basic | 16 Aug 2026 | 02:25 pm |
 | 73 | [1328A - Divisibility Problem](./Codeforces/basic/1328A%20-%20Divisibility%20Problem) | [Codeforces](https://codeforces.com/problemset/problem/1328/A) | basic | 16 Aug 2026 | 02:42 pm |
+| 74 | [630A - Again Twenty Five](./Codeforces/basic/630A%20-%20Again%20Twenty%20Five) | [Codeforces](https://codeforces.com/problemset/problem/630/A) | basic | 16 Aug 2026 | 02:59 pm |

@@ -1,14 +1,14 @@
 {
-  "totalSolved": 94,
+  "totalSolved": 95,
   "currentStreak": 2,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-16",
-  "todayCount": 9,
+  "todayCount": 10,
   "difficultyCounts": {
     "easy": 29,
     "medium": 13,
     "hard": 2,
-    "basic": 50
+    "basic": 51
   },
   "syncedProblems": {
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
@@ -104,14 +104,15 @@
     "Codeforces_1362C_-_Johnny_and_Another_Rating_Drop": true,
     "Codeforces_2256B_-_Domino_Tiles": true,
     "Codeforces_1328A_-_Divisibility_Problem": true,
-    "Codeforces_630A_-_Again_Twenty_Five": true
+    "Codeforces_630A_-_Again_Twenty_Five": true,
+    "Codeforces_1669A_-_Division": true
   },
   "activityHistory": {
     "2026-08-11": 13,
     "2026-08-12": 55,
     "2026-08-13": 1,
     "2026-08-15": 16,
-    "2026-08-16": 9
+    "2026-08-16": 10
   },
   "todayProblems": [
     "Remove Linked List Elements",
@@ -122,6 +123,7 @@
     "1362C - Johnny and Another Rating Drop",
     "2256B - Domino Tiles",
     "1328A - Divisibility Problem",
-    "630A - Again Twenty Five"
+    "630A - Again Twenty Five",
+    "1669A - Division"
   ]
 }
